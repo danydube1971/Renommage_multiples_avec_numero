@@ -1,3 +1,6 @@
+"""Demande à l'utilisateur d'entrer un numéro de départ pour la numérotation automatique des fichiers 
+du répertoir actuel sans toucher au nom du script lui-même."""
+
 import os
 
 num_start = input("Entrez le numéro de départ : ")
