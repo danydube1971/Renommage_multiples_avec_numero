@@ -16,3 +16,11 @@ Explication détaillée du script:
 9. Répète les étapes 4 à 8 pour chaque fichier dans la liste.
 
 Testé sous Linux Mint 21
+
+-------------------
+
+# Comment utiliser ce script
+
+1. Placer le script dans le même répertoire des fichiers que vous voulez renommer.
+2. Exécuter le script dans un terminal avec la commande: **python3 "Renommage_multiples_avec_numéro.py"**
+
