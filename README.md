@@ -15,3 +15,4 @@ Explication détaillée du script:
 8. Affiche le nom du fichier d'origine et le nouveau nom de fichier renommé.
 9. Répète les étapes 4 à 8 pour chaque fichier dans la liste.
 
+Testé sous Linux Mint 21
