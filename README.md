@@ -1,6 +1,6 @@
 # Renommage_multiples_avec_numero
 
-Demande à l'utilisateur d'entrer un numéro de départ pour la numérotation automatique des fichiers du répertoir actuel 
+Le script demande à l'utilisateur d'entrer un numéro de départ pour la numérotation automatique des fichiers du répertoire actuel 
 sans toucher au nom du script lui-même.
 
 Explication détaillée du script:
